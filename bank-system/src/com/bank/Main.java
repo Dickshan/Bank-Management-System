@@ -9,9 +9,9 @@ public class Main {
 
         BankService bank = new BankService();
 
-        System.out.println("╔══════════════════════════════════════╗");
-        System.out.println("║   Java Bank Management System        ║");
-        System.out.println("╚══════════════════════════════════════╝\n");
+        System.out.println("╔════════════════════════════════╗");
+        System.out.println("║   Java Bank Management System  ║");
+        System.out.println("╚════════════════════════════════╝\n");
 
         
         System.out.println("── Creating Accounts ──────────────────");
